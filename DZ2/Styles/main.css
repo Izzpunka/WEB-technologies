@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'GOGOIA';
+	src: url('fonts/gogoia.eot'); /* IE 9 Compatibility Mode */
+	src: url('/fonts/gogoia.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/fonts/gogoia.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/fonts/gogoia.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/fonts/gogoia.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/fonts/gogoia.svg#gogoia') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+body{
+    background-color: antiquewhite;
+color: darkslategrey;
+font-family: 'GOGOIA', sans-serif;}
+h2,h4{
+    color: black;
+}
